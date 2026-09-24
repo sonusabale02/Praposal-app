@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
-import devikaImage from "../assets/DevikaImage.jpeg";
+import devikaImage from "../assets/redwhite.jpeg";
 
 function Devika() {
   return (
